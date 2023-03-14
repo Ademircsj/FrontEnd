@@ -64,6 +64,7 @@ form button{
   margin: auto;
   margin-top: 10px;
   background-color: #49c1a2;
+  cursor: pointer;
 }
 
 form button:hover{

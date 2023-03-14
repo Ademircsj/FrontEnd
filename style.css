@@ -1,0 +1,105 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#344a72;
+  font-family: 'Raleway', sans-serif;
+}
+
+.standart_form{
+  background-color: #F2F2F2;
+  width: 20%;
+  height: 650px;
+  display: block;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 8px;
+}
+
+.form_title{
+  text-align: center;
+  padding: 15px;
+  line-height: 100%;
+
+}
+
+.form_title h2 {
+
+  font-weight: regular;
+  font-size: 30px;
+}
+
+.form_title h3{
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+
+
+
+form label{
+  display: block;
+  font-size: 20px;
+  width: 85%;
+  height: 20px;
+  margin: auto;
+  margin-bottom: 6px;
+}
+
+form input{
+  display: block;
+  width: 85%;
+  height: 35px;
+  margin: auto;
+  margin-bottom: 20px;
+  border: 2px solid #D8D8D8;
+  border-radius: 5px;
+}
+
+form button{
+  display: block;
+  width: 85%;
+  height: 38px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgb(56, 175, 175);
+}
+
+
+form p{
+  font-size: 14px;
+  text-align: center;
+  width: 85%;
+  display: block;
+  margin: auto;
+  line-height: 25px;
+  display: block;
+  margin-top: 18px;
+}
+
+form p a{
+
+  text-decoration: none;
+}
+
+
+ #already_account{
+  display: block;
+  width: 80%;
+  margin: auto;
+  color: #F2F2F2;
+  font-size: 16px;
+}
+
+#already_account a{
+  color: aqua;
+  text-decoration: none;
+
+}
+
+.standart_form button{
+  color: #F2F2F2;
+  border-radius: 5px;
+  border: none;
+}
